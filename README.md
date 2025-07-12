@@ -15,9 +15,11 @@ Portfolio of Faisal Ahmed Siddiqi
 - Cooperate with the DevOps team to deploy ML and other services.
 - Yearly revenue increased by 7.5%, indicating that around 250k USD in extra revenue is added on average yearly.
 - For a typical mid-sized and big-sized RMG factory, the yearly extra revenue could be from a couple of million to 50 million USD.
-#### DEMO: 
-Hellios [Poductivity Monitoring in RMG Facroty] (https://docs.google.com/document/d/1MHbyIcpem0jBGvuPkTVUKRSJLRxUBW2c6yuh32rICLE/edit?usp=sharing)
-Archive Manager [Seaching through News Archive with RAG+LLM] (https://docs.google.com/document/d/1IhTP2Vdaz2cXhshae3hejSxQ-a-DLWORLoxrw0d4_j4/edit?usp=sharing)  
+
+### DEMO: 
+This site was built using [GitHub Pages](https://pages.github.com/).
+- Hellios [Poductivity Monitoring in RMG Facroty] (https://docs.google.com/document/d/1MHbyIcpem0jBGvuPkTVUKRSJLRxUBW2c6yuh32rICLE/edit?usp=sharing)
+- Archive Manager [Seaching through News Archive with RAG+LLM] (https://docs.google.com/document/d/1IhTP2Vdaz2cXhshae3hejSxQ-a-DLWORLoxrw0d4_j4/edit?usp=sharing)  
 
 ### Executive Machine Learning Engineer | Bysl Global Technology Group | October 2021 – July 2022
 - Engaged in developing MVP/MMP of different AI applications.
@@ -32,15 +34,15 @@ Archive Manager [Seaching through News Archive with RAG+LLM] (https://docs.googl
 - Automated Train/Test pipeline with CLI. 
 - Supervised team members in building scalable AI applications.
 - Patient screening time was reduced by 20%-30%.
-#### DEMO:
-AI assistant [Smart Retina AI Assistant] (https://drive.google.com/file/d/19sGQwMJaNQmDRXUFq14rlriVoWEUawAR/view?usp=sharing)
+### DEMO:
 
+- AI assistant [Smart Retina AI Assistant] (https://drive.google.com/file/d/19sGQwMJaNQmDRXUFq14rlriVoWEUawAR/view?usp=sharing)
 
 ### ML Engineer  | Pridesis it | October 2018 – December 2020
 - Developed POC For Monitoring Elderly people.(Secured funding for MVP development)
 - Built an Intelligent Object Tracking System.(Secured 100k USD for MVP development)
 - Built an AI-based Visual Object Search Engine.
-#### DEMO: 
-[DEMO_1] (https://drive.google.com/file/d/1-cjjTa0nxRig_gy6ji_ftM925QFvvNuJ/view?usp=sharing)  
-[DEMO_2] (https://drive.google.com/file/d/1rY3BwFtYLEJDSdApJTAw0HSiyjJdKY2j/view?usp=sharing)  
-[DEMO_3] (https://github.com/munnafaisal/Deep-Object-Search-With-Hash) 
+### DEMO: 
+- [DEMO_1] (https://drive.google.com/file/d/1-cjjTa0nxRig_gy6ji_ftM925QFvvNuJ/view?usp=sharing)  
+- [DEMO_2] (https://drive.google.com/file/d/1rY3BwFtYLEJDSdApJTAw0HSiyjJdKY2j/view?usp=sharing)  
+- [DEMO_3] (https://github.com/munnafaisal/Deep-Object-Search-With-Hash) 
