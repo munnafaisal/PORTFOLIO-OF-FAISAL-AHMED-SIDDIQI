@@ -10,11 +10,11 @@
 - Led the development of POCs for key business features, successfully transitioning them into MVPs and MMPs.
 - Leading an ML team. Train and validate ML models and optimize models for high throughput. 
 - Productionized ML-based computer vision application for monitoring Line efficiency and Operator/Worker  efficiency (Covered hundreds of employees) in the RMG industry.
-- Successfully built high-performance, cost-effective ML pipelines for Real-Time inference.(Hardware cost has been reduced to 30 USD per employee per year)
+- Successfully built high-performance, cost-effective ML pipelines for Real-Time inference.(**Hardware cost has been reduced to 30 USD per employee per year**)
 - Successfully built high-performance Real-Time Video stream service. 
 - Cooperate with the DevOps team to deploy ML and other services.
-- Yearly revenue increased by 7.5%, indicating that around 250k USD in extra revenue is added on average yearly.
-- For a typical mid-sized and big-sized RMG factory, the yearly extra revenue could be from a couple of million to 50 million USD.
+- Yearly **revenue increased by 7.5%**, indicating that **around 250k USD** in extra revenue is added on average yearly.
+- For a typical mid-sized and big-sized RMG factory, the yearly extra revenue could be from **a couple of million to 50 million USD**.
 
 ### DEMO: 
 - **High Impact Apps --** [Read the full story of **Poductivity Monitoring in RMG Facroty**](https://docs.google.com/document/d/1MHbyIcpem0jBGvuPkTVUKRSJLRxUBW2c6yuh32rICLE/edit?usp=sharing)
@@ -27,7 +27,7 @@
 ![Screenshot](assets/Archive_Agent.png)
 
 ### MY WORK ON Customized VECTOR DB (In Memory) in 2020 
-- In the mid of 2020 When first wave or CORONA hit so hard worldwide and we all got locked downed inside our home, Out of uncertainty and deppression I was just how to keep myself busy anyway.I took inspiration from from several SOTA papers and started building a **VECTOR DB** for video segment retrieval from large DB.
+- In the mid of 2020 When first wave or CORONA hit so hard worldwide and we all got locked downed inside our home, Out of uncertainty and deppression I was just thinking on how to keep myself busy anyway.I took inspiration from from several SOTA papers and started building a **VECTOR DB** for video segment retrieval from large DB.
 - Within couple of months I managed to build a **VECTOR DB** of my own using ANN(Approximate nearest neighbour), LSH, PCA and also applied some custom mathmatical operations on embeddings for better retrieval performance
 - Click here to see the [DEMO](https://github.com/munnafaisal/Deep-Object-Search-With-Hash)     
 
@@ -40,10 +40,10 @@
 - Designed and developed scalable Deep learning models for Retinal diseases.
 - Productionized AI-based Diabetic retinopathy screening apps for Ophthalmology doctors.
 - Analyzed and collected feedback from stakeholders, Hospitals, Doctors, and integrated new AI features based on requirements. 
-- Deployed in Two Eye Hospitals in Dhaka City for Trial purposes.
+- Deployed in **Two Eye Hospitals in Dhaka City** for Trial purposes.
 - Automated Train/Test pipeline with CLI. 
 - Supervised team members in building scalable AI applications.
-- Patient screening time was reduced by 20%-30%.
+- Patient screening time was **reduced by 20%-30%**.
 
 ### DEMO:
 
@@ -52,9 +52,9 @@
 ![Screenshot](assets/Smart_Retina.png)
 
 ### ML Engineer  | Pridesis it | October 2018 – December 2020
-- Developed POC For Monitoring Elderly people.(Secured funding for MVP development)
-- Built an Intelligent Object Tracking System.(Secured 100k USD for MVP development)
-- Built an AI-based Visual Object Search Engine.
+- Developed POC For Monitoring Elderly people.(**Secured funding for MVP development**)
+- Built an Intelligent Object Tracking System.(**Secured 100k USD for MVP development**
+- )
 
 ### DEMO: 
 - [DEMO_1](https://drive.google.com/file/d/1-cjjTa0nxRig_gy6ji_ftM925QFvvNuJ/view?usp=sharing)  
