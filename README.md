@@ -18,7 +18,11 @@ Portfolio of Faisal Ahmed Siddiqi
 
 ### DEMO: 
 - Hellios [Poductivity Monitoring in RMG Facroty](https://docs.google.com/document/d/1MHbyIcpem0jBGvuPkTVUKRSJLRxUBW2c6yuh32rICLE/edit?usp=sharing)
-- Archive Manager [Seaching through News Archive with RAG+LLM](https://docs.google.com/document/d/1IhTP2Vdaz2cXhshae3hejSxQ-a-DLWORLoxrw0d4_j4/edit?usp=sharing)  
+- Archive Search Agent [Seaching through News Archive with RAG+LLM](https://docs.google.com/document/d/1IhTP2Vdaz2cXhshae3hejSxQ-a-DLWORLoxrw0d4_j4/edit?usp=sharing)
+### MY LEGACY WORK ON Customized Vector DB (In Memory) in 2020 
+- In the mid of 2020 When first wave or CORONA hit so hard worldwide and we all got locked downed inside our home, Out of uncertainty and deppression I was just how to keep myself busy anyway.I took inspiration from from several SOTA papers and started building a **VECTOR DB** for video segment retrieval from large DB.
+- Within couple of months I managed to build a **VECTOR DB** of my own using ANN(Approximate nearest neighbour), LSH, PCA and also applied some custom mathmatical operations on embeddings for better retrieval performance
+- See the [DEMO](https://github.com/munnafaisal/Deep-Object-Search-With-Hash)     
 
 ### Executive Machine Learning Engineer | Bysl Global Technology Group | October 2021 – July 2022
 - Engaged in developing MVP/MMP of different AI applications.
@@ -33,6 +37,7 @@ Portfolio of Faisal Ahmed Siddiqi
 - Automated Train/Test pipeline with CLI. 
 - Supervised team members in building scalable AI applications.
 - Patient screening time was reduced by 20%-30%.
+
 ### DEMO:
 
 - AI assistant [Smart Retina AI Assistant](https://drive.google.com/file/d/19sGQwMJaNQmDRXUFq14rlriVoWEUawAR/view?usp=sharing)
@@ -41,7 +46,7 @@ Portfolio of Faisal Ahmed Siddiqi
 - Developed POC For Monitoring Elderly people.(Secured funding for MVP development)
 - Built an Intelligent Object Tracking System.(Secured 100k USD for MVP development)
 - Built an AI-based Visual Object Search Engine.
+
 ### DEMO: 
 - [DEMO_1](https://drive.google.com/file/d/1-cjjTa0nxRig_gy6ji_ftM925QFvvNuJ/view?usp=sharing)  
 - [DEMO_2](https://drive.google.com/file/d/1rY3BwFtYLEJDSdApJTAw0HSiyjJdKY2j/view?usp=sharing)  
-- [DEMO_3](https://github.com/munnafaisal/Deep-Object-Search-With-Hash) 
