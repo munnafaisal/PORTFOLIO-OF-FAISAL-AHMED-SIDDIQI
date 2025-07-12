@@ -17,13 +17,19 @@ Portfolio of Faisal Ahmed Siddiqi
 - For a typical mid-sized and big-sized RMG factory, the yearly extra revenue could be from a couple of million to 50 million USD.
 
 ### DEMO: 
-- High Impact Apps [Poductivity Monitoring in RMG Facroty](https://docs.google.com/document/d/1MHbyIcpem0jBGvuPkTVUKRSJLRxUBW2c6yuh32rICLE/edit?usp=sharing)
- ![Screenshot](assets/RMG_activity.png)
-- Archive Search Agent [Searching through News Archive with RAG+LLM](https://docs.google.com/document/d/1IhTP2Vdaz2cXhshae3hejSxQ-a-DLWORLoxrw0d4_j4/edit?usp=sharing)
-### MY LEGACY WORK ON Customized Vector DB (In Memory) in 2020 
+- **High Impact Apps --** [Read the full story of **Poductivity Monitoring in RMG Facroty**](https://docs.google.com/document/d/1MHbyIcpem0jBGvuPkTVUKRSJLRxUBW2c6yuh32rICLE/edit?usp=sharing)
+ 
+![Screenshot](assets/RMG_activity.png)
+
+
+- **Archive Agent --** [Read the full story of an **AI AGENT** which can Search through News Archive with RAG+LLM](https://docs.google.com/document/d/1IhTP2Vdaz2cXhshae3hejSxQ-a-DLWORLoxrw0d4_j4/edit?usp=sharing)
+
+![Screenshot](assets/Archive_Agent.png)
+
+### MY WORK ON Customized VECTOR DB (In Memory) in 2020 
 - In the mid of 2020 When first wave or CORONA hit so hard worldwide and we all got locked downed inside our home, Out of uncertainty and deppression I was just how to keep myself busy anyway.I took inspiration from from several SOTA papers and started building a **VECTOR DB** for video segment retrieval from large DB.
 - Within couple of months I managed to build a **VECTOR DB** of my own using ANN(Approximate nearest neighbour), LSH, PCA and also applied some custom mathmatical operations on embeddings for better retrieval performance
-- See the [DEMO](https://github.com/munnafaisal/Deep-Object-Search-With-Hash)     
+- Click here to see the [DEMO](https://github.com/munnafaisal/Deep-Object-Search-With-Hash)     
 
 ### Executive Machine Learning Engineer | Bysl Global Technology Group | October 2021 – July 2022
 - Engaged in developing MVP/MMP of different AI applications.
@@ -41,7 +47,9 @@ Portfolio of Faisal Ahmed Siddiqi
 
 ### DEMO:
 
-- AI assistant [Smart Retina AI Assistant](https://drive.google.com/file/d/19sGQwMJaNQmDRXUFq14rlriVoWEUawAR/view?usp=sharing)
+- **AI assistant** [Smart Retina AI Assistant](https://drive.google.com/file/d/19sGQwMJaNQmDRXUFq14rlriVoWEUawAR/view?usp=sharing)
+
+![Screenshot](assets/Smart_Retina.png)
 
 ### ML Engineer  | Pridesis it | October 2018 – December 2020
 - Developed POC For Monitoring Elderly people.(Secured funding for MVP development)
