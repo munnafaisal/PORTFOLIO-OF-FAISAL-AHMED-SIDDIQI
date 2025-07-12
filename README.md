@@ -18,7 +18,7 @@ Portfolio of Faisal Ahmed Siddiqi
 
 ### DEMO: 
 - High Impact Apps [Poductivity Monitoring in RMG Facroty](https://docs.google.com/document/d/1MHbyIcpem0jBGvuPkTVUKRSJLRxUBW2c6yuh32rICLE/edit?usp=sharing)
-- ![Screenshot](https://github.com/munnafaisal/portfolio/blob/main/RMG_activity.png)
+ ![Screenshot](assets/RMG_activity.png)
 - Archive Search Agent [Searching through News Archive with RAG+LLM](https://docs.google.com/document/d/1IhTP2Vdaz2cXhshae3hejSxQ-a-DLWORLoxrw0d4_j4/edit?usp=sharing)
 ### MY LEGACY WORK ON Customized Vector DB (In Memory) in 2020 
 - In the mid of 2020 When first wave or CORONA hit so hard worldwide and we all got locked downed inside our home, Out of uncertainty and deppression I was just how to keep myself busy anyway.I took inspiration from from several SOTA papers and started building a **VECTOR DB** for video segment retrieval from large DB.
