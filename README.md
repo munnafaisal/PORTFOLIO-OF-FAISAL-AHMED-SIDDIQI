@@ -4,6 +4,10 @@
 ## Who am I ?
 #### Highly accomplished ML Engineer with 6+ years of experience in developing and commercializing AI products. Proven ability to lead teams, build scalable solutions, and drive significant business impact, particularly in optimizing efficiency and reducing costs. Passionate about leveraging AI to solve complex challenges. 
 
+## High Impact Agent Frameworks
+![Screenshot](https://github.com/munnafaisal/PORTFOLIO-OF-FAISAL-AHMED-SIDDIQI/blob/main/assets/Screenshot%20from%202025-07-29%2020-55-28.png)
+
+### [VISIT THE REPOSITORY](https://github.com/munnafaisal/Demystified-Designator-DD-)
 ## Experience
 
 ### Lead ML Engineer | Altersense LTD | August 2022 – Present
