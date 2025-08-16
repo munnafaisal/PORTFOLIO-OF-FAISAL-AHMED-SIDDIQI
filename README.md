@@ -20,6 +20,8 @@
 - Yearly **revenue increased by 7.5%**, indicating that **around 250k USD** in extra revenue is added on average yearly.
 - For a typical mid-sized and big-sized RMG factory, the yearly extra revenue could be from **a couple of million to 50 million USD**.
 
+
+#### [Visit this website to know this **PDODUCT** in detail](https://www.altersense.com/products/altrEye)
 ### DEMO: 
 - **High Impact Apps --** [Read the full story of **Poductivity Monitoring in RMG Facroty**](https://docs.google.com/document/d/1MHbyIcpem0jBGvuPkTVUKRSJLRxUBW2c6yuh32rICLE/edit?usp=sharing)
  
